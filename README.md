@@ -23,7 +23,7 @@ e exibi-la dentro da bolinha.
 
 Aplicar o efeito shake ao inserir a pergunta e clicar no botão / apertar enter (já está no css, descobrir como aplicar via js)
 
-
+Limpar a pergunta e a resposta após 3 segundos
 </p> 
 
 ### Tech stack
